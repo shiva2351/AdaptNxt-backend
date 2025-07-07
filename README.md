@@ -1,0 +1,1 @@
+# AdaptNxt Backend project
